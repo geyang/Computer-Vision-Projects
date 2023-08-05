@@ -1,3 +1,7 @@
+Ge's note: A super nice set of vision projects used in course 504.
+
+---
+
 # Computer-Vision
 EECS 504- Winter 20
 
